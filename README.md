@@ -1,7 +1,9 @@
 
 # Soccer Highlight Generator
 
-This repository is a comprehensive collection housing the datasets applied within the project, alongside Python scripts for video extraction. It also encompasses Jupyter notebooks that articulate the methodologies for training and evaluating the models referenced in the associated paper.
+This repository is a comprehensive collection housing the datasets applied within the project, alongside Python scripts for video extraction. It also encompasses Jupyter notebooks that articulate the methodologies for training and evaluating the models referenced in the associated paper. 
+
+The paper explaining the testing results and the findings of this paper can be found in the documents folder.
 #
 The project involves creating a soccer match highlight video by detecting key and pivotal moments that occur in the game. These events include 
  
