@@ -1,5 +1,5 @@
 
-# Soccer Highlight Generator
+# Event Detection in Soccer/Football Games. 
 
 This repository is a comprehensive collection housing the datasets applied within the project, alongside Python scripts for video extraction. It also encompasses Jupyter notebooks that articulate the methodologies for training and evaluating the models referenced in the associated paper. 
 
