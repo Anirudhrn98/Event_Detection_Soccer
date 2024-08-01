@@ -57,9 +57,7 @@ b. Penalty
 
 Create a more voluminous dataset for the Video Classifier and the Yolov8 Model. 
 
-# Acknowledgment 
 
-The author would like to thank Dr. Leon Reznik and Mr. Sergei Chuprov from Rochester Institute of Technology (RIT) for their help and guidance while working on the project. 
 
 
 
